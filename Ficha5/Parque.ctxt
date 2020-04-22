@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Parque
+comment1.params=
+comment1.target=Parque()
+comment2.params=np\ lugs
+comment2.target=Parque(java.lang.String,\ java.util.Map)
+comment3.params=p
+comment3.target=Parque(Parque)
+comment4.params=lugs
+comment4.target=void\ setLugares(java.util.Map)
+comment5.params=
+comment5.target=java.util.Map\ getLugares()
+comment6.params=
+comment6.target=java.lang.String\ getNome_parque()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=Parque\ clone()
+numComments=10

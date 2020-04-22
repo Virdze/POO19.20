@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Encomenda
+comment1.params=
+comment1.target=Encomenda()
+comment2.params=n\ ref\ m\ num\ l\ nMaxLE
+comment2.target=Encomenda(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ LinhaEncomenda[],\ int)
+numComments=3

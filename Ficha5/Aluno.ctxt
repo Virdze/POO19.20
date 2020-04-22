@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\n\ Write\ a\ description\ of\ class\ Aluno\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Aluno()
+comment2.params=num\ nom
+comment2.target=Aluno(java.lang.String,\ java.lang.String)
+comment3.params=al
+comment3.target=Aluno(Aluno)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=java.lang.String\ getNumero()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=Aluno\ clone()
+comment9.params=a
+comment9.target=int\ compareTo(Aluno)
+numComments=10

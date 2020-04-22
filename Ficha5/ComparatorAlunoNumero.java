@@ -1,0 +1,17 @@
+
+/**
+ * Write a description of class ComparatorAlunoNumero here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+import java.util.Comparator;
+
+public class ComparatorAlunoNumero implements Comparator<Aluno>
+{
+    public int compare(Aluno a1,Aluno a2){
+        if (a1.getNumero().compareTo(a2.getNumero()) < 0 )return 1;
+        if (a1.getNumero().compareTo(a2.getNumero()) > 0 )return -1;
+        return a1.getNome().compareTo(a2.getNome());
+    }
+}
