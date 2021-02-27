@@ -1,3 +1,6 @@
+package f1;
+
+import f1.ficha1;
 
 import java.util.Scanner;
 
